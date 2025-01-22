@@ -1,6 +1,6 @@
 # **ParaAI**
 
-GenesisAI is a powerful paragraph generation tool powered by artificial intelligence, designed to create high-quality content with the ability to detect AI-generated text. Perfect for anyone needing to quickly generate unique paragraphs for various purposes.
+ParaAI is a powerful paragraph generation tool powered by artificial intelligence, designed to create high-quality content with the ability to detect AI-generated text. Perfect for anyone needing to quickly generate unique paragraphs for various purposes.
 
 ## **Features**
 
